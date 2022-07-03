@@ -55,7 +55,7 @@ void loop()
     }
       if ( b4 == 1 ) 
     {
-      tone(speaker,392,100);   //G4 note
+      tone(speaker,392,100);   //G4 Note
     }
       if  ( b5 == 1 )
     {
